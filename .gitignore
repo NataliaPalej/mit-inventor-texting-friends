@@ -4,9 +4,6 @@
 # Log file
 *.log
 
-#Word Doc
-*.docx
-
 # BlueJ files
 *.ctxt
 
